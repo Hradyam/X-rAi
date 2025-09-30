@@ -1,0 +1,13 @@
+opencv-python
+ipython
+keras
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+torch
+torchvision
+torchaudio
+flask
